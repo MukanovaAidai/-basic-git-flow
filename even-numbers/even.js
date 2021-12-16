@@ -1,3 +1,3 @@
-for (let step = 11; step <= 33; step++) {
-    console.log ('Step' + step);
-}
+for ( let i = 0; i <= 100; i += 2) {
+    console.log  ( i );
+} 
